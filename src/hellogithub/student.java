@@ -6,6 +6,7 @@ public class student {
 	   
 	   student(){
 		   int x;
+		   int y;
 	   }
 	}
 
