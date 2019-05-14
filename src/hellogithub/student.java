@@ -5,7 +5,7 @@ public class student {
 	   public String address;
 	   
 	   student(){
-		   
+		   int x;
 	   }
 	}
 
